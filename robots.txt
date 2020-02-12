@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahxeilohsh.jitrc.com/sitemap.xml
